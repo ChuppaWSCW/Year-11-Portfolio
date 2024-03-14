@@ -1,6 +1,7 @@
 body {
-    background-image: url("rap-birthday.gif");
+    background-image: url("giannii\ as.gif");
     margin: 0;
+    color: white;
 }
 
 h1 {
@@ -35,4 +36,9 @@ h1 {
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
+  }
+
+  body {
+    color: white;
+    background-color: black;
   }
